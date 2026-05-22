@@ -58,12 +58,24 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true&border_radius=14" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine&hide_border=true&border_radius=14" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushia089-web&show_icons=true&theme=rose_pine&hide_border=true&border_radius=14" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushia089-web&theme=rose_pine&hide_border=true&border_radius=14" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true&border_radius=14" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushia089-web&layout=compact&theme=rose_pine&hide_border=true&border_radius=14" />
+
+</div>
+
+---
+
+## 🔥 Working Days Streak
+
+<div align="center">
+
+<a href="https://github.com/aayushia089-web">
+  <img src="https://streak-stats.demolab.com?user=aayushia089-web&theme=rose_pine&hide_border=true&border_radius=14" alt="GitHub Contribution Streak" />
+</a>
 
 </div>
 
@@ -88,6 +100,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushi-aayushi-347144322?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushia089@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayushia089-web)
+
 </div>
 
 ---
