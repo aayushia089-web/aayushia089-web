@@ -58,12 +58,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushia089-web&show_icons=true&theme=rose_pine&hide_border=true&border_radius=14" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushia089-web&theme=rose_pine&hide_border=true&border_radius=14" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushia089-web&show_icons=true&theme=rose_pine&hide_border=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushia089-web&theme=rose_pine&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushia089-web&layout=compact&theme=rose_pine&hide_border=true&border_radius=14" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushia089-web&layout=compact&theme=rose_pine&hide_border=true" />
 
 </div>
 
@@ -73,9 +73,7 @@
 
 <div align="center">
 
-<a href="https://github.com/aayushia089-web">
-  <img src="https://streak-stats.demolab.com?user=aayushia089-web&theme=rose_pine&hide_border=true" alt="GitHub Contribution Streak" />
-</a>
+<img src="https://streak-stats.demolab.com?user=aayushia089-web&theme=rose_pine&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
