@@ -1,32 +1,57 @@
-# ✨ 𝐀𝐚𝐲𝐮𝐬𝐡𝐢 | 𝐆𝐢𝐭𝐇𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 ✨
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=F78DA7&center=true&vCenter=true&width=700&lines=Java+Developer+☕;AI%2FML+Explorer+🤖;Web+Development+Learner+🌐;DSA+Enthusiast+📚" />
+# ✧･ﾟ: * Aayushi's GitHub Profile *:･ﾟ✧
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&pause=1000&color=F7A8C7&center=true&vCenter=true&width=820&lines=Java+Developer+☕;AI%2FML+Explorer+🤖;Web+Development+Learner+🌐;DSA+Enthusiast+📚;Creative+Problem+Solver+✨" />
+
+<br>
+
+<img src="https://img.shields.io/badge/-Soft%20Pink%20Aesthetic-F7A8C7?style=for-the-badge&logoColor=white" />
 
 </div>
 
 ---
 
-## 🌸 About Me
-
-💻 Passionate about **Java Development & Problem Solving**  
-🤖 Exploring **Artificial Intelligence & Machine Learning**  
-🌐 Learning **Web Development & Modern Technologies**  
-🚀 Building real-world projects to improve practical skills  
-✨ Turning ideas into creative digital solutions  
-
----
-
-## ⚡ Tech Stack
+## 🌷 About Me
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Java%20Developer-ED8B00?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%2FML-ffb6d9?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20Development-ffc0cb?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-f8a5c2?style=flat-square&logo=leetcode&logoColor=white" />
+
+</div>
+
+<br>
+
+- 💻 Passionate about **Java Development** and **Problem Solving**.
+- 🤖 Exploring **Artificial Intelligence** and **Machine Learning**.
+- 🌐 Learning **Web Development** and modern technologies.
+- 🚀 Building real-world projects to improve practical skills.
+- ✨ Turning ideas into creative digital solutions.
+
+---
+
+## 🎀 Tech Stack
+
+<div align="center">
+
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-F06595?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-F7A8C7?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FDCB6E?style=for-the-badge&logo=javascript&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F78DA7?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-78A1BB?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### Learning
+![Python](https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F7B2C4?style=for-the-badge&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFB3C6?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
@@ -36,52 +61,47 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true&border_radius=14" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine&hide_border=true&border_radius=14" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+<br><br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true&border_radius=14" />
 
 </div>
 
 ---
 
-## 🧠 LeetCode Live Stats
+## 🧠 LeetCode Progress
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=heatmap)
+<a href="https://leetcode.com/u/aayushi_1310/">
+  <img src="https://leetcard.jacoblin.cool/aayushi_1310?theme=light&font=Poppins&ext=heatmap" alt="LeetCode Stats" />
+</a>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌸 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7A8C7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
+
+## ✨ Quote
 
 <div align="center">
 
-### ✨ "Code • Create • Innovate" ✨
+<img src="https://img.shields.io/badge/-Code%20•%20Create%20•%20Bloom-F7A8C7?style=for-the-badge&logoColor=white" />
+
+> Code • Create • Bloom
 
 </div>
-
----
-
-# 📌 Setup Instructions
-
-Replace these placeholders:
-
-- `YOUR_USERNAME` → Your GitHub username  
-- `YOUR_LEETCODE_USERNAME` → Your LeetCode username  
-- `YOUR_LINKEDIN` → Your LinkedIn username/link  
-- `YOUR_EMAIL` → Your Gmail address  
-
-Then paste this into your `README.md` file of the repository named exactly like your GitHub username.
