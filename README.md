@@ -74,7 +74,7 @@
 <div align="center">
 
 <a href="https://github.com/aayushia089-web">
-  <img src="https://streak-stats.demolab.com?user=aayushia089-web&theme=rose_pine&hide_border=true&border_radius=14" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=aayushia089-web&theme=rose_pine&hide_border=true" alt="GitHub Contribution Streak" />
 </a>
 
 </div>
