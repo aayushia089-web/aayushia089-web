@@ -58,22 +58,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushia089-web&show_icons=true&theme=rose_pine&hide_border=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushia089-web&theme=rose_pine&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushia089-web&show_icons=true&theme=rose_pine&hide_border=true&border_radius=14" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushia089-web&theme=rose_pine&hide_border=true&border_radius=14" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushia089-web&layout=compact&theme=rose_pine&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Working Days Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aayushia089-web&theme=rose_pine&hide_border=true" alt="GitHub Contribution Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushia089-web&layout=compact&theme=rose_pine&hide_border=true&border_radius=14" />
 
 </div>
 
