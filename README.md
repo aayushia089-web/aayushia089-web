@@ -5,9 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&pause=1000&color=F7A8C7&center=true&vCenter=true&width=820&lines=Java+Developer+☕;AI%2FML+Explorer+🤖;Web+Development+Learner+🌐;DSA+Enthusiast+📚;Creative+Problem+Solver+✨" />
 
 <br>
-
-<img src="https://img.shields.io/badge/-Soft%20Pink%20Aesthetic-F7A8C7?style=for-the-badge&logoColor=white" />
-
 </div>
 
 ---
@@ -88,10 +85,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7A8C7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/aayushi-aayushi-347144322?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-[![Gmail](https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushia089L@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2D2D2D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushi-aayushi-347144322?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushia089@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 </div>
 
 ---
