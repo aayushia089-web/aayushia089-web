@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?
-  type=waving&height=280&color=ffb6c1&text=Aayushi&fontSize=75&fontColor=ffffff&animation=fadeIn&desc=Java%20Developer%20☕%20|%20AI/ML%20Explorer%20🤖&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=ffb6c1&text=Aayushi&fontSize=75&fontColor=ffffff&animation=fadeIn&desc=Java%20Developer%20☕%20|%20AI/ML%20Explorer%20🤖&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=🌸+Welcome+to+my+Coding+Diary;☕+Java+Developer;🤖+AI%2FML+Explorer;📚+DSA+Enthusiast;🚀+Building+Dreams+with+Code;✨+Learning+%7C+Creating+%7C+Growing" />
 
