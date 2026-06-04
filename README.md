@@ -1,73 +1,68 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Aayushi&fontSize=75&fontAlignY=40&animation=fadeIn&desc=Java%20Developer%20☕%20|%20AI/ML%20Explorer%20🤖%20|%20DSA%20Enthusiast%20📚&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=ffb6c1&text=Aayushi&fontSize=75&fontColor=ffffff&animation=fadeIn&desc=Java%20Developer%20☕%20|%20AI/ML%20Explorer%20🤖&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&center=true&vCenter=true&width=900&lines=✨+Welcome+To+My+GitHub+Profile;☕+Java+Developer;🤖+AI%2FML+Explorer;📚+DSA+Enthusiast;🚀+Backend+Developer;💡+Building+Ideas+Into+Reality;🌸+Dream+Big+Build+Smart+Stay+Curious" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=🌸+Welcome+to+my+Coding+Diary;☕+Java+Developer;🤖+AI%2FML+Explorer;📚+DSA+Enthusiast;🚀+Building+Dreams+with+Code;✨+Learning+%7C+Creating+%7C+Growing" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=aayushia089-web&label=Profile+Views&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=aayushia089-web&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌷 About Me
+# 🎀 𝐀𝐚𝐲𝐮𝐬𝐡𝐢.𝐞𝐱𝐞
 
-```yaml
-name: Aayushi
-role: Aspiring Software Developer
-
-education:
-  - B.Tech Computer Science Engineering
-
-currently_learning:
-  - Java Development ☕
-  - Data Structures & Algorithms 📚
-  - Artificial Intelligence & Machine Learning 🤖
-  - Backend Development 🚀
-
-interests:
-  - Problem Solving
-  - Open Source
-  - Technology & Innovation
-
-motto:
-  - "Dream Big • Build Smart • Stay Curious ✨"
+```txt
+╭─────────────────────────────────────────────୨୧──╮
+│                                                 │
+│              🌸  Hello, I'm Aayushi 🌸          │
+│                                                 │
+│  👩‍💻 Aspiring Software Developer               │
+│  🎓 B.Tech Computer Science Engineering         │
+│  ☕ Java Enthusiast                             │
+│  📚 DSA Learner                                │
+│  🤖 Exploring AI & Machine Learning            │
+│  🚀 Building Real-World Projects               │
+│                                                 │
+│  ✨ Turning ideas into beautiful solutions     │
+│  🌷 Growing one commit at a time               │
+│                                                 │
+╰─────────────────────────────────────────────୨୧──╯
 ```
+
 ---
 
-# ⚡ Tech Stack
+# 🌷 Tech Garden
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode&theme=light"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Bloom Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushia089-web&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushia089-web&show_icons=true&theme=rose_pine&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushia089-web&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushia089-web&layout=compact&theme=rose_pine&hide_border=true"/>
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushia089-web&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushia089-web&theme=rose-pine&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 🌸 Contribution Garden
 
 <div align="center">
 
@@ -77,7 +72,7 @@ motto:
 
 ---
 
-# 🧠 LeetCode Arena
+# 🧠 LeetCode Journey
 
 <div align="center">
 
@@ -87,95 +82,65 @@ motto:
 
 <div align="center">
 
-### 🚀 Solving Problems • Building Logic • Growing Every Day
+### 💖 Solving Problems • Building Logic • Growing Daily
 
 </div>
 
 ---
 
-# 🎯 Current Focus
-
-<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+# 🌈 Current Adventures
 
 ```txt
-☕ Java Development
-📚 Data Structures & Algorithms
-🤖 Artificial Intelligence & Machine Learning
-🚀 Backend Development
-🌱 Open Source Learning
-✨ Real-World Project Building
+☕ Mastering Java
+📚 Practicing DSA
+🤖 Exploring AI / ML
+🚀 Building Backend Projects
+🌱 Learning Something New Every Day
 ```
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievement Shelf
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aayushia089-web&theme=tokyonight&row=1&column=7&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aayushia089-web&theme=onestar&no-frame=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-# 🌟 Fun Zone
-
-```java
-public class Aayushi {
-
-    public static void main(String[] args) {
-
-        while(!success){
-            learn();
-            code();
-            improve();
-            repeat();
-        }
-    }
-}
-```
-
-<div align="center">
-
-✨ Turning coffee into code and ideas into reality.
-
-</div>
-
----
-
-# 🌐 Connect With Me
+# 💌 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/aayushia089-web">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/aayushi_1310/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-ff69b4?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aayushi-aayushi-347144322">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-ff85c1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:aayushia089@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-ffb3d9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 <div align="center">
 
-### 💌 Open to Internships, Collaborations & Exciting Tech Opportunities
+### 🌷 Open to Internships • Collaborations • Learning Opportunities
 
 </div>
 
 ---
 
 # 🐍 Contribution Snake
-
-> ⚠️ Requires GitHub Actions setup in your profile repository.
 
 <div align="center">
 
@@ -185,22 +150,14 @@ public class Aayushi {
 
 ---
 
-# 📌 Quote
-
 <div align="center">
 
-### ✨ Code • Create • Innovate ✨
+### 🌸 Code • Create • Bloom 🌸
 
-*"Success is not built in a day. It is built one commit at a time."* 🚀
+*"Every great developer was once a beginner who never gave up."* ✨
 
-</div>
+🩷 ☕ 🌷 📚 💻 🤖 🚀 ✨
 
----
-
-<div align="center">
-
-### 🌸 Dream Big • Build Smart • Stay Curious 🌸
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=ffb6c1"/>
 
 </div>
