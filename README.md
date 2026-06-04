@@ -12,29 +12,29 @@
 
 ---
 
-# 👋 About Me
+# 🌷 About Me
 
 ```yaml
-Name: Aayushi
-Role: Aspiring Software Developer
-Education: B.Tech Computer Science Engineering
+name: Aayushi
+role: Aspiring Software Developer
 
-Currently Learning:
+education:
+  - B.Tech Computer Science Engineering
+
+currently_learning:
   - Java Development ☕
   - Data Structures & Algorithms 📚
   - Artificial Intelligence & Machine Learning 🤖
   - Backend Development 🚀
 
-Passion:
-  - Building Real-World Projects
+interests:
   - Problem Solving
-  - Continuous Learning
+  - Open Source
   - Technology & Innovation
 
-Motto:
-  "Code • Create • Innovate ✨"
+motto:
+  - "Dream Big • Build Smart • Stay Curious ✨"
 ```
-
 ---
 
 # ⚡ Tech Stack
