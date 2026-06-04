@@ -44,19 +44,15 @@
 
 ---
 
-# 📊 GitHub Bloom Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aayushia089-web&show_icons=true&theme=rose_pine&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aayushia089-web&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushia089-web&layout=compact&theme=rose_pine&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushia089-web&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushia089-web&theme=rose-pine&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=aayushia089-web&theme=tokyonight&hide_border=true"/>
 
 </div>
 
