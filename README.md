@@ -1,14 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=ffb6c1&text=Aayushi&fontSize=75&fontColor=ffffff&animation=fadeIn&desc=Java%20Developer%20☕%20|%20AI/ML%20Explorer%20🤖&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ffb6c1&text=Aayushi&fontSize=75&fontColor=ffffff&animation=fadeIn"/>
 
-<div align="center">
+<br><br>
+
+<h2>☕ Java Developer &nbsp;&nbsp;|&nbsp;&nbsp; 🤖 AI/ML Explorer</h2>
+
+<br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=1400&lines=🌸+Welcome+to+Aayushi's+Coding+Diary;☕+Java+Developer;🚀+Spring+Boot+Developer;💻+C+%26+C%2B%2B+Programmer;🌐+HTML+%7C+CSS+Learner;🎨+Frontend+Development+Explorer;🛠️+Backend+Development+Enthusiast;🤖+Artificial+Intelligence+Explorer;📈+Machine+Learning+Learner;📚+Data+Structures+%26+Algorithms;🗄️+Database+Management+Systems;🐬+MySQL+Developer;🍃+MongoDB+Learner;🔗+Computer+Networks+Explorer;🖥️+Operating+Systems+Learner;📋+Software+Engineering+Student;⚙️+Agile+Methodology+Enthusiast;☁️+Cloud+Computing+Explorer;🔒+Cybersecurity+Learner;🐙+Git+%26+GitHub+User;🏆+Problem+Solver;💡+Open+Source+Contributor;📱+Future+Full+Stack+Developer;🎯+Building+Scalable+Applications;🌱+Lifelong+Learner;💖+Turning+Ideas+Into+Reality;🚀+Building+Dreams+with+Code;✨+Learning+%7C+Creating+%7C+Growing+Every+Day" alt="Typing SVG" />
 
-</div>
-
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=aayushia089-web&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
 
@@ -21,7 +23,7 @@
 ```txt
 ╭─────────────────────────────────────────────୨୧──╮
 │                                                 │
-│              🌸  Hello, I'm Aayushi 🌸          │
+│              🌸 Hello, I'm Aayushi 🌸           │
 │                                                 │
 │  👩‍💻 Aspiring Software Developer               │
 │  🎓 B.Tech Computer Science Engineering         │
@@ -42,19 +44,21 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode&theme=light"/>
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,mysql,mongodb,git,github,vscode,idea&theme=light"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=aayushia089-web&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushia089-web&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=aayushia089-web&theme=tokyonight&hide_border=true"/>
 
@@ -91,11 +95,12 @@
 # 🌈 Current Adventures
 
 ```txt
-☕ Mastering Java
-📚 Practicing DSA
+☕ Mastering Java & Spring Boot
+📚 Practicing DSA Daily
 🤖 Exploring AI / ML
 🚀 Building Backend Projects
 🌱 Learning Something New Every Day
+💡 Contributing to Open Source
 ```
 
 ---
@@ -104,7 +109,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aayushia089-web&theme=onestar&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aayushia089-web&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
+<br><br>
+
+✨ Consistency • Learning • Innovation • Problem Solving ✨
 
 </div>
 
@@ -139,13 +148,15 @@
 </div>
 
 ---
+
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aayushia089-web/aayushia089-web/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/aayushia089-web/aayushia089-web/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 
 </div>
+
 ---
 
 <div align="center">
@@ -155,6 +166,8 @@
 *"Every great developer was once a beginner who never gave up."* ✨
 
 🩷 ☕ 🌷 📚 💻 🤖 🚀 ✨
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=ffb6c1"/>
 
