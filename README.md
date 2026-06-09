@@ -2,7 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=ffb6c1&text=Aayushi&fontSize=75&fontColor=ffffff&animation=fadeIn&desc=Java%20Developer%20☕%20|%20AI/ML%20Explorer%20🤖&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=🌸+Welcome+to+my+Coding+Diary;☕+Java+Developer;🤖+AI%2FML+Explorer;📚+DSA+Enthusiast;🚀+Building+Dreams+with+Code;✨+Learning+%7C+Creating+%7C+Growing" />
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=1400&lines=🌸+Welcome+to+Aayushi's+Coding+Diary;☕+Java+Developer;🚀+Spring+Boot+Developer;💻+C+%26+C%2B%2B+Programmer;🌐+HTML+%7C+CSS+Learner;🎨+Frontend+Development+Explorer;🛠️+Backend+Development+Enthusiast;🤖+Artificial+Intelligence+Explorer;📈+Machine+Learning+Learner;📚+Data+Structures+%26+Algorithms;🗄️+Database+Management+Systems;🐬+MySQL+Developer;🍃+MongoDB+Learner;🔗+Computer+Networks+Explorer;🖥️+Operating+Systems+Learner;📋+Software+Engineering+Student;⚙️+Agile+Methodology+Enthusiast;☁️+Cloud+Computing+Explorer;🔒+Cybersecurity+Learner;🐙+Git+%26+GitHub+User;🏆+Problem+Solver;💡+Open+Source+Contributor;📱+Future+Full+Stack+Developer;🎯+Building+Scalable+Applications;🌱+Lifelong+Learner;💖+Turning+Ideas+Into+Reality;🚀+Building+Dreams+with+Code;✨+Learning+%7C+Creating+%7C+Growing+Every+Day" alt="Typing SVG" />
+
+</div>
 
 <br>
 
