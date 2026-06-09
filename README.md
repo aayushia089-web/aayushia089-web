@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=ffb6c1&text=Aayushi&fontSize=75&fontColor=ffffff&animation=fadeIn/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=ffb6c1&text=Aayushi&fontSize=75&fontColor=ffffff&animation=fadeIn&desc=Java%20Developer%20☕%20|%20AI/ML%20Explorer%20🤖&descAlignY=60"/>
 
 <div align="center">
 
